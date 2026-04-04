@@ -1,9 +1,9 @@
-.cat-photo {
-    margin: 1.5rem 0;
+.crow-photo {
+    margin: 1.25rem 0 0;
     max-width: 40rem;
 }
 
-.cat-photo img {
+.crow-photo img {
     display: block;
     width: 100%;
     height: auto;
@@ -11,8 +11,12 @@
     box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.12);
 }
 
-.cat-photo figcaption {
+.crow-photo figcaption {
     margin-top: 0.5rem;
     font-size: 0.9rem;
     color: #444;
+}
+
+.crow-photo figcaption a {
+    color: #1a5f7a;
 }
